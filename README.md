@@ -1,9 +1,11 @@
 ### Is Ongoing
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2ong&show_icons=true&theme=radical)
 
+
+<!--
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wjd6254)](https://solved.ac/wjd6254) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&color=blueviolet)](https://www.instagram.com/_wjdgus/)
-<!--
+
 
 
 
